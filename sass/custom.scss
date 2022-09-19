@@ -1,0 +1,17 @@
+$font-family-sans-serif: 'Barlow Semi Condensed', sans-serif;
+
+$primary:       #3178c5;
+$secondary:     #EDF2F8;
+$success:       #49556B;
+$dark:          #18202D;
+
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 1300px,
+  xl: 1300px,
+  xxl: 1300px
+) ;
+
+
+@import "../node_modules/bootstrap/scss/bootstrap";
